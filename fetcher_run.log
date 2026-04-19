@@ -1,0 +1,431 @@
+2026-04-18 10:27:30,425  INFO     Output root: C:\Users\geoff\Downloads\New folder (4)\Transcript run
+2026-04-18 10:27:30,426  INFO     Primary path: https://gulflink.health.mil/an_iii/an_iii_refs/refimages
+2026-04-18 10:27:30,426  INFO     Fallback paths: 3
+2026-04-18 10:27:30,915  INFO     robots.txt loaded
+2026-04-18 10:27:30,915  INFO     Documents in registry: 42
+2026-04-18 10:27:30,915  INFO     
+2026-04-18 10:27:30,915  INFO     Starting extraction sweep...
+2026-04-18 10:27:30,915  INFO     
+2026-04-18 10:27:30,915  INFO     === April 10 1997 Eglin AFB transcript ===
+2026-04-18 10:28:35,456  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 10:29:39,604  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 10:30:45,938  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 10:30:45,938  INFO       Stopping: 3 consecutive misses
+2026-04-18 10:30:45,938  INFO       Pages captured: 0 / 3
+2026-04-18 10:30:45,939  INFO     
+2026-04-18 10:30:45,939  INFO     === LS 895 146th EOD cdr ===
+2026-04-18 10:31:58,204  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 10:33:04,527  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 10:34:06,051  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 10:34:06,051  INFO       Stopping: 3 consecutive misses
+2026-04-18 10:34:06,051  INFO       Pages captured: 0 / 3
+2026-04-18 10:34:06,051  INFO     
+2026-04-18 10:34:06,051  INFO     === LS 1079 307 EN C Co plt ldr ===
+2026-04-18 10:35:11,462  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 10:36:18,158  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 10:37:22,845  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 10:37:22,846  INFO       Stopping: 3 consecutive misses
+2026-04-18 10:37:22,846  INFO       Pages captured: 0 / 3
+2026-04-18 10:37:22,846  INFO     
+2026-04-18 10:37:22,846  INFO     === LS 1080 307 EN XO ===
+2026-04-18 10:38:35,109  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 10:39:41,590  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 10:40:44,317  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 10:40:44,318  INFO       Stopping: 3 consecutive misses
+2026-04-18 10:40:44,318  INFO       Pages captured: 0 / 3
+2026-04-18 10:40:44,318  INFO     
+2026-04-18 10:40:44,318  INFO     === LS 6498 307 EN cdr ===
+2026-04-18 10:41:49,440  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 10:42:50,185  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 10:43:55,566  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 10:43:55,566  INFO       Stopping: 3 consecutive misses
+2026-04-18 10:43:55,567  INFO       Pages captured: 0 / 3
+2026-04-18 10:43:55,567  INFO     
+2026-04-18 10:43:55,567  INFO     === LS 7834 513 MI chem off ===
+2026-04-18 10:45:04,142  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 10:46:07,024  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 10:47:17,060  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 10:47:17,060  INFO       Stopping: 3 consecutive misses
+2026-04-18 10:47:17,060  INFO       Pages captured: 0 / 3
+2026-04-18 10:47:17,061  INFO     
+2026-04-18 10:47:17,061  INFO     === LS 7938 BH pilot ===
+2026-04-18 10:47:20,793  INFO         Page 1: saved via .gif (59,309 bytes)
+2026-04-18 10:47:27,260  INFO         Page 2: saved via .gif (68,193 bytes)
+2026-04-18 10:47:31,391  INFO         Page 3: saved via .gif (73,309 bytes)
+2026-04-18 10:47:36,570  INFO         Page 4: saved via .gif (78,294 bytes)
+2026-04-18 10:47:42,384  INFO         Page 5: saved via .gif (67,798 bytes)
+2026-04-18 10:48:45,451  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 10:49:50,659  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 10:50:59,779  INFO         Page 8: missing (tried 12 URLs)
+2026-04-18 10:50:59,779  INFO       Stopping: 3 consecutive misses
+2026-04-18 10:50:59,779  INFO       Pages captured: 5 / 8
+2026-04-18 10:50:59,780  INFO     
+2026-04-18 10:50:59,780  INFO     === LS 7945 BH co-pilot ===
+2026-04-18 10:51:04,503  INFO         Page 1: saved via .gif (65,668 bytes)
+2026-04-18 10:51:09,537  INFO         Page 2: saved via .gif (102,850 bytes)
+2026-04-18 10:51:15,700  INFO         Page 3: saved via .gif (58,886 bytes)
+2026-04-18 10:51:21,932  INFO         Page 4: saved via .gif (26,895 bytes)
+2026-04-18 10:52:26,018  INFO         Page 5: missing (tried 12 URLs)
+2026-04-18 10:53:35,774  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 10:54:44,509  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 10:54:44,509  INFO       Stopping: 3 consecutive misses
+2026-04-18 10:54:44,509  INFO       Pages captured: 4 / 7
+2026-04-18 10:54:44,510  INFO     
+2026-04-18 10:54:44,510  INFO     === LS 7947 82 ABN chem off ===
+2026-04-18 10:54:51,246  INFO         Page 1: saved via .gif (77,962 bytes)
+2026-04-18 10:54:57,806  INFO         Page 2: saved via .gif (110,034 bytes)
+2026-04-18 10:55:04,917  INFO         Page 3: saved via .gif (124,300 bytes)
+2026-04-18 10:55:09,777  INFO         Page 4: saved via .gif (84,530 bytes)
+2026-04-18 10:55:14,918  INFO         Page 5: saved via .gif (66,666 bytes)
+2026-04-18 10:55:19,098  INFO         Page 6: saved via .gif (73,860 bytes)
+2026-04-18 10:55:25,378  INFO         Page 7: saved via .gif (82,533 bytes)
+2026-04-18 10:55:31,159  INFO         Page 8: saved via .gif (111,000 bytes)
+2026-04-18 10:55:37,400  INFO         Page 9: saved via .gif (97,847 bytes)
+2026-04-18 10:55:43,643  INFO         Page 10: saved via .gif (23,611 bytes)
+2026-04-18 10:56:46,350  INFO         Page 11: missing (tried 12 URLs)
+2026-04-18 10:57:55,038  INFO         Page 12: missing (tried 12 URLs)
+2026-04-18 10:59:03,045  INFO         Page 13: missing (tried 12 URLs)
+2026-04-18 10:59:03,046  INFO       Stopping: 3 consecutive misses
+2026-04-18 10:59:03,046  INFO       Pages captured: 10 / 13
+2026-04-18 10:59:03,046  INFO     
+2026-04-18 10:59:03,046  INFO     === LS 7948 307 EN C Co 3rd plt ldr ===
+2026-04-18 10:59:08,889  INFO         Page 1: saved via .gif (54,889 bytes)
+2026-04-18 10:59:16,452  INFO         Page 2: saved via .gif (72,740 bytes)
+2026-04-18 10:59:23,030  INFO         Page 3: saved via .gif (83,185 bytes)
+2026-04-18 10:59:26,978  INFO         Page 4: saved via .gif (78,870 bytes)
+2026-04-18 10:59:34,360  INFO         Page 5: saved via .gif (74,573 bytes)
+2026-04-18 11:00:43,017  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 11:01:50,504  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 11:02:53,570  INFO         Page 8: missing (tried 12 URLs)
+2026-04-18 11:02:53,570  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:02:53,570  INFO       Pages captured: 5 / 8
+2026-04-18 11:02:53,571  INFO     
+2026-04-18 11:02:53,571  INFO     === LS 7949 HHC 307 EN S-3 ===
+2026-04-18 11:03:00,370  INFO         Page 1: saved via .gif (59,270 bytes)
+2026-04-18 11:03:06,345  INFO         Page 2: saved via .gif (96,232 bytes)
+2026-04-18 11:03:11,072  INFO         Page 3: saved via .gif (102,851 bytes)
+2026-04-18 11:03:17,083  INFO         Page 4: saved via .gif (29,681 bytes)
+2026-04-18 11:04:24,574  INFO         Page 5: missing (tried 12 URLs)
+2026-04-18 11:05:28,678  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 11:06:35,840  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 11:06:35,840  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:06:35,840  INFO       Pages captured: 4 / 7
+2026-04-18 11:06:35,841  INFO     
+2026-04-18 11:06:35,841  INFO     === LS 9507 BH crew chief ===
+2026-04-18 11:06:42,204  INFO         Page 1: saved via .gif (81,589 bytes)
+2026-04-18 11:06:47,715  INFO         Page 2: saved via .gif (76,908 bytes)
+2026-04-18 11:06:53,421  INFO         Page 3: saved via .gif (70,349 bytes)
+2026-04-18 11:06:58,465  INFO         Page 4: saved via .gif (124,734 bytes)
+2026-04-18 11:07:02,883  INFO         Page 5: saved via .gif (85,135 bytes)
+2026-04-18 11:07:09,299  INFO         Page 6: saved via .gif (73,895 bytes)
+2026-04-18 11:07:13,503  INFO         Page 7: saved via .gif (96,259 bytes)
+2026-04-18 11:07:18,070  INFO         Page 8: saved via .gif (95,362 bytes)
+2026-04-18 11:07:22,006  INFO         Page 9: saved via .gif (15,149 bytes)
+2026-04-18 11:08:26,522  INFO         Page 10: missing (tried 12 URLs)
+2026-04-18 11:09:32,998  INFO         Page 11: missing (tried 12 URLs)
+2026-04-18 11:10:38,675  INFO         Page 12: missing (tried 12 URLs)
+2026-04-18 11:10:38,675  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:10:38,675  INFO       Pages captured: 9 / 12
+2026-04-18 11:10:38,675  INFO     
+2026-04-18 11:10:38,675  INFO     === LS 9522 BH door gunner ===
+2026-04-18 11:10:45,345  INFO         Page 1: saved via .gif (63,014 bytes)
+2026-04-18 11:10:52,568  INFO         Page 2: saved via .gif (96,637 bytes)
+2026-04-18 11:10:56,807  INFO         Page 3: saved via .gif (75,920 bytes)
+2026-04-18 11:11:02,037  INFO         Page 4: saved via .gif (43,092 bytes)
+2026-04-18 11:12:07,208  INFO         Page 5: missing (tried 12 URLs)
+2026-04-18 11:13:22,104  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 11:14:31,002  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 11:14:31,002  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:14:31,002  INFO       Pages captured: 4 / 7
+2026-04-18 11:14:31,002  INFO     
+2026-04-18 11:14:31,002  INFO     === LS 9918 307 EN C Co 2nd plt ldr ===
+2026-04-18 11:14:36,947  INFO         Page 1: saved via .gif (67,073 bytes)
+2026-04-18 11:14:40,640  INFO         Page 2: saved via .gif (32,609 bytes)
+2026-04-18 11:14:46,312  INFO         Page 3: saved via .gif (68,116 bytes)
+2026-04-18 11:14:52,049  INFO         Page 4: saved via .gif (44,034 bytes)
+2026-04-18 11:14:58,405  INFO         Page 5: saved via .gif (96,991 bytes)
+2026-04-18 11:15:04,602  INFO         Page 6: saved via .gif (78,429 bytes)
+2026-04-18 11:16:11,277  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 11:17:19,450  INFO         Page 8: missing (tried 12 URLs)
+2026-04-18 11:18:29,981  INFO         Page 9: missing (tried 12 URLs)
+2026-04-18 11:18:29,981  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:18:29,981  INFO       Pages captured: 6 / 9
+2026-04-18 11:18:29,981  INFO     
+2026-04-18 11:18:29,982  INFO     === LS 10168 Fox vehicle operator ===
+2026-04-18 11:18:34,478  INFO         Page 1: saved via .gif (104,773 bytes)
+2026-04-18 11:18:39,488  INFO         Page 2: saved via .gif (108,442 bytes)
+2026-04-18 11:18:44,015  INFO         Page 3: saved via .gif (77,364 bytes)
+2026-04-18 11:18:50,080  INFO         Page 4: saved via .gif (31,768 bytes)
+2026-04-18 11:19:59,568  INFO         Page 5: missing (tried 12 URLs)
+2026-04-18 11:21:05,820  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 11:22:14,258  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 11:22:14,258  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:22:14,258  INFO       Pages captured: 4 / 7
+2026-04-18 11:22:14,258  INFO     
+2026-04-18 11:22:14,259  INFO     === LS 10358 1703 EOD ===
+2026-04-18 11:22:19,310  INFO         Page 1: saved via .gif (86,420 bytes)
+2026-04-18 11:22:24,102  INFO         Page 2: saved via .gif (76,290 bytes)
+2026-04-18 11:22:29,781  INFO         Page 3: saved via .gif (65,543 bytes)
+2026-04-18 11:22:34,374  INFO         Page 4: saved via .gif (51,277 bytes)
+2026-04-18 11:22:41,371  INFO         Page 5: saved via .gif (78,036 bytes)
+2026-04-18 11:23:43,716  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 11:24:56,884  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 11:25:58,331  INFO         Page 8: missing (tried 12 URLs)
+2026-04-18 11:25:58,331  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:25:58,332  INFO       Pages captured: 5 / 8
+2026-04-18 11:25:58,332  INFO     
+2026-04-18 11:25:58,332  INFO     === LS 10523 146 EOD cdr ===
+2026-04-18 11:26:05,745  INFO         Page 1: saved via .gif (56,330 bytes)
+2026-04-18 11:26:12,200  INFO         Page 2: saved via .gif (100,628 bytes)
+2026-04-18 11:26:16,643  INFO         Page 3: saved via .gif (51,474 bytes)
+2026-04-18 11:26:24,464  INFO         Page 4: saved via .gif (79,243 bytes)
+2026-04-18 11:26:28,857  INFO         Page 5: saved via .gif (100,184 bytes)
+2026-04-18 11:26:33,271  INFO         Page 6: saved via .gif (98,934 bytes)
+2026-04-18 11:26:40,774  INFO         Page 7: saved via .gif (19,485 bytes)
+2026-04-18 11:27:46,989  INFO         Page 8: missing (tried 12 URLs)
+2026-04-18 11:29:01,306  INFO         Page 9: missing (tried 12 URLs)
+2026-04-18 11:30:11,388  INFO         Page 10: missing (tried 12 URLs)
+2026-04-18 11:30:11,389  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:30:11,389  INFO       Pages captured: 7 / 10
+2026-04-18 11:30:11,389  INFO     
+2026-04-18 11:30:11,389  INFO     === LS 10775 1703 EOD ===
+2026-04-18 11:30:16,133  INFO         Page 1: saved via .gif (74,970 bytes)
+2026-04-18 11:30:23,935  INFO         Page 2: saved via .gif (78,183 bytes)
+2026-04-18 11:31:27,991  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 11:32:33,369  INFO         Page 4: missing (tried 12 URLs)
+2026-04-18 11:33:40,458  INFO         Page 5: missing (tried 12 URLs)
+2026-04-18 11:33:40,459  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:33:40,459  INFO       Pages captured: 2 / 5
+2026-04-18 11:33:40,459  INFO     
+2026-04-18 11:33:40,459  INFO     === LS 10787 1703 EOD ===
+2026-04-18 11:33:46,174  INFO         Page 1: saved via .gif (47,714 bytes)
+2026-04-18 11:33:52,878  INFO         Page 2: saved via .gif (79,360 bytes)
+2026-04-18 11:33:58,085  INFO         Page 3: saved via .gif (69,766 bytes)
+2026-04-18 11:34:03,660  INFO         Page 4: saved via .gif (90,109 bytes)
+2026-04-18 11:34:08,728  INFO         Page 5: saved via .gif (75,869 bytes)
+2026-04-18 11:34:16,028  INFO         Page 6: saved via .gif (62,454 bytes)
+2026-04-18 11:35:20,360  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 11:36:29,573  INFO         Page 8: missing (tried 12 URLs)
+2026-04-18 11:37:38,927  INFO         Page 9: missing (tried 12 URLs)
+2026-04-18 11:37:38,928  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:37:38,928  INFO       Pages captured: 6 / 9
+2026-04-18 11:37:38,928  INFO     
+2026-04-18 11:37:38,929  INFO     === LS 10789 1703 EOD ===
+2026-04-18 11:37:43,148  INFO         Page 1: saved via .gif (78,718 bytes)
+2026-04-18 11:37:49,606  INFO         Page 2: saved via .gif (72,655 bytes)
+2026-04-18 11:37:56,381  INFO         Page 3: saved via .gif (72,769 bytes)
+2026-04-18 11:38:04,184  INFO         Page 4: saved via .gif (99,774 bytes)
+2026-04-18 11:38:10,191  INFO         Page 5: saved via .gif (96,323 bytes)
+2026-04-18 11:39:15,076  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 11:40:22,742  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 11:41:31,514  INFO         Page 8: missing (tried 12 URLs)
+2026-04-18 11:41:31,514  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:41:31,514  INFO       Pages captured: 5 / 8
+2026-04-18 11:41:31,514  INFO     
+2026-04-18 11:41:31,515  INFO     === LS 11036 60 EOD sr tech ===
+2026-04-18 11:41:35,380  INFO         Page 1: saved via .gif (48,795 bytes)
+2026-04-18 11:41:39,734  INFO         Page 2: saved via .gif (97,471 bytes)
+2026-04-18 11:41:46,837  INFO         Page 3: saved via .gif (77,359 bytes)
+2026-04-18 11:41:52,856  INFO         Page 4: saved via .gif (121,389 bytes)
+2026-04-18 11:41:58,383  INFO         Page 5: saved via .gif (59,158 bytes)
+2026-04-18 11:42:02,921  INFO         Page 6: saved via .gif (59,740 bytes)
+2026-04-18 11:43:12,249  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 11:44:23,311  INFO         Page 8: missing (tried 12 URLs)
+2026-04-18 11:45:27,508  INFO         Page 9: missing (tried 12 URLs)
+2026-04-18 11:45:27,508  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:45:27,508  INFO       Pages captured: 6 / 9
+2026-04-18 11:45:27,509  INFO     
+2026-04-18 11:45:27,509  INFO     === LS 11043 1703 EOD tm ldr ===
+2026-04-18 11:45:34,263  INFO         Page 1: saved via .gif (45,942 bytes)
+2026-04-18 11:45:40,274  INFO         Page 2: saved via .gif (113,522 bytes)
+2026-04-18 11:45:47,128  INFO         Page 3: saved via .gif (62,795 bytes)
+2026-04-18 11:45:52,501  INFO         Page 4: saved via .gif (109,486 bytes)
+2026-04-18 11:45:59,487  INFO         Page 5: saved via .gif (163,934 bytes)
+2026-04-18 11:46:05,146  INFO         Page 6: saved via .gif (68,005 bytes)
+2026-04-18 11:46:12,041  INFO         Page 7: saved via .gif (93,593 bytes)
+2026-04-18 11:47:21,809  INFO         Page 8: missing (tried 12 URLs)
+2026-04-18 11:48:28,119  INFO         Page 9: missing (tried 12 URLs)
+2026-04-18 11:49:29,037  INFO         Page 10: missing (tried 12 URLs)
+2026-04-18 11:49:29,037  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:49:29,037  INFO       Pages captured: 7 / 10
+2026-04-18 11:49:29,037  INFO     
+2026-04-18 11:49:29,038  INFO     === LS 11249 307 EN C Co plt ldr ===
+2026-04-18 11:49:33,056  INFO         Page 1: saved via .gif (59,621 bytes)
+2026-04-18 11:49:38,669  INFO         Page 2: saved via .gif (70,482 bytes)
+2026-04-18 11:49:42,284  INFO         Page 3: saved via .gif (58,902 bytes)
+2026-04-18 11:50:49,409  INFO         Page 4: missing (tried 12 URLs)
+2026-04-18 11:51:56,855  INFO         Page 5: missing (tried 12 URLs)
+2026-04-18 11:53:00,456  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 11:53:00,456  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:53:00,456  INFO       Pages captured: 3 / 6
+2026-04-18 11:53:00,456  INFO     
+2026-04-18 11:53:00,456  INFO     === LS 11325 307 EN C Co eng ===
+2026-04-18 11:53:05,657  INFO         Page 1: saved via .gif (78,489 bytes)
+2026-04-18 11:53:12,599  INFO         Page 2: saved via .gif (133,280 bytes)
+2026-04-18 11:53:16,862  INFO         Page 3: saved via .gif (67,765 bytes)
+2026-04-18 11:53:23,659  INFO         Page 4: saved via .gif (64,309 bytes)
+2026-04-18 11:54:33,489  INFO         Page 5: missing (tried 12 URLs)
+2026-04-18 11:55:47,992  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 11:56:50,485  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 11:56:50,486  INFO       Stopping: 3 consecutive misses
+2026-04-18 11:56:50,486  INFO       Pages captured: 4 / 7
+2026-04-18 11:56:50,486  INFO     
+2026-04-18 11:56:50,486  INFO     === LS 11833 307 EN eng ===
+2026-04-18 11:56:56,424  INFO         Page 1: saved via .gif (72,651 bytes)
+2026-04-18 11:57:03,361  INFO         Page 2: saved via .gif (96,009 bytes)
+2026-04-18 11:57:08,332  INFO         Page 3: saved via .gif (79,324 bytes)
+2026-04-18 11:57:12,609  INFO         Page 4: saved via .gif (75,118 bytes)
+2026-04-18 11:58:19,012  INFO         Page 5: missing (tried 12 URLs)
+2026-04-18 11:59:32,701  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 12:00:43,326  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 12:00:43,326  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:00:43,326  INFO       Pages captured: 4 / 7
+2026-04-18 12:00:43,327  INFO     
+2026-04-18 12:00:43,327  INFO     === LS 11875 307 EN B Co 1st plt eng ===
+2026-04-18 12:00:48,519  INFO         Page 1: saved via .gif (63,282 bytes)
+2026-04-18 12:00:53,703  INFO         Page 2: saved via .gif (106,041 bytes)
+2026-04-18 12:01:00,543  INFO         Page 3: saved via .gif (78,025 bytes)
+2026-04-18 12:02:10,463  INFO         Page 4: missing (tried 12 URLs)
+2026-04-18 12:03:17,396  INFO         Page 5: missing (tried 12 URLs)
+2026-04-18 12:04:21,092  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 12:04:21,093  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:04:21,093  INFO       Pages captured: 3 / 6
+2026-04-18 12:04:21,093  INFO     
+2026-04-18 12:04:21,093  INFO     === LS 12002 307 EN S-2 ===
+2026-04-18 12:04:28,782  INFO         Page 1: saved via .gif (67,096 bytes)
+2026-04-18 12:04:33,930  INFO         Page 2: saved via .gif (83,814 bytes)
+2026-04-18 12:04:37,939  INFO         Page 3: saved via .gif (61,041 bytes)
+2026-04-18 12:04:44,326  INFO         Page 4: saved via .gif (78,161 bytes)
+2026-04-18 12:05:49,111  INFO         Page 5: missing (tried 12 URLs)
+2026-04-18 12:06:58,421  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 12:08:09,672  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 12:08:09,672  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:08:09,672  INFO       Pages captured: 4 / 7
+2026-04-18 12:08:09,673  INFO     
+2026-04-18 12:08:09,673  INFO     === LS 12100 505 PIR ===
+2026-04-18 12:09:15,958  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 12:10:20,863  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 12:11:26,959  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:11:26,959  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:11:26,959  INFO       Pages captured: 0 / 3
+2026-04-18 12:11:26,960  INFO     
+2026-04-18 12:11:26,960  INFO     === LS 13189 Fox vehicle cdr ===
+2026-04-18 12:12:33,998  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 12:13:43,103  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 12:14:48,757  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:14:48,758  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:14:48,758  INFO       Pages captured: 0 / 3
+2026-04-18 12:14:48,758  INFO     
+2026-04-18 12:14:48,758  INFO     === LS 13573 9 Chem Co sr enl ===
+2026-04-18 12:15:53,907  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 12:17:06,528  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 12:18:19,135  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:18:19,136  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:18:19,136  INFO       Pages captured: 0 / 3
+2026-04-18 12:18:19,136  INFO     
+2026-04-18 12:18:19,136  INFO     === LS 13654 JCMEC cdr ===
+2026-04-18 12:19:18,906  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 12:20:30,813  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 12:21:38,970  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:21:38,970  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:21:38,971  INFO       Pages captured: 0 / 3
+2026-04-18 12:21:38,971  INFO     
+2026-04-18 12:21:38,971  INFO     === LS 14102 JCMEC ops off ===
+2026-04-18 12:22:51,855  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 12:23:56,635  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 12:25:08,260  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:25:08,260  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:25:08,260  INFO       Pages captured: 0 / 3
+2026-04-18 12:25:08,260  INFO     
+2026-04-18 12:25:08,260  INFO     === LS 14159 USAMRIID SPB chief ===
+2026-04-18 12:26:14,147  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 12:27:17,236  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 12:28:24,645  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:28:24,645  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:28:24,645  INFO       Pages captured: 0 / 3
+2026-04-18 12:28:24,645  INFO     
+2026-04-18 12:28:24,646  INFO     === LS 15388 AFMIC med intel off ===
+2026-04-18 12:29:29,263  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 12:30:37,929  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 12:31:36,009  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:31:36,009  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:31:36,009  INFO       Pages captured: 0 / 3
+2026-04-18 12:31:36,010  INFO     
+2026-04-18 12:31:36,010  INFO     === LS 17555 Fox vehicle crew chief ===
+2026-04-18 12:32:43,903  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 12:33:49,255  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 12:35:01,053  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:35:01,053  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:35:01,053  INFO       Pages captured: 0 / 3
+2026-04-18 12:35:01,053  INFO     
+2026-04-18 12:35:01,054  INFO     === LS 26772 767 Ord Co EOD ===
+2026-04-18 12:35:05,009  INFO         Page 1: saved via .gif (70,569 bytes)
+2026-04-18 12:35:09,506  INFO         Page 2: saved via .gif (43,577 bytes)
+2026-04-18 12:36:12,000  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:37:10,043  INFO         Page 4: missing (tried 12 URLs)
+2026-04-18 12:38:15,618  INFO         Page 5: missing (tried 12 URLs)
+2026-04-18 12:38:15,619  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:38:15,619  INFO       Pages captured: 2 / 5
+2026-04-18 12:38:15,619  INFO     
+2026-04-18 12:38:15,619  INFO     === LS 26854 52 Ord Gp EOD ===
+2026-04-18 12:38:20,189  INFO         Page 1: saved via .gif (65,800 bytes)
+2026-04-18 12:38:27,171  INFO         Page 2: saved via .gif (62,220 bytes)
+2026-04-18 12:38:31,226  INFO         Page 3: saved via .gif (15,071 bytes)
+2026-04-18 12:39:40,116  INFO         Page 4: missing (tried 12 URLs)
+2026-04-18 12:40:49,108  INFO         Page 5: missing (tried 12 URLs)
+2026-04-18 12:42:00,159  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 12:42:00,159  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:42:00,159  INFO       Pages captured: 3 / 6
+2026-04-18 12:42:00,159  INFO     
+2026-04-18 12:42:00,160  INFO     === LS 26933 NGIC chem wpns spec ===
+2026-04-18 12:42:06,527  INFO         Page 1: saved via .gif (51,001 bytes)
+2026-04-18 12:43:20,038  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 12:44:28,883  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:45:37,991  INFO         Page 4: missing (tried 12 URLs)
+2026-04-18 12:45:37,992  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:45:37,992  INFO       Pages captured: 1 / 4
+2026-04-18 12:45:37,992  INFO     
+2026-04-18 12:45:37,992  INFO     === LS 26934 NAVEODTC munitions ===
+2026-04-18 12:45:41,660  INFO         Page 1: saved via .gif (61,717 bytes)
+2026-04-18 12:46:52,406  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 12:47:55,401  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:49:02,807  INFO         Page 4: missing (tried 12 URLs)
+2026-04-18 12:49:02,807  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:49:02,807  INFO       Pages captured: 1 / 4
+2026-04-18 12:49:02,807  INFO     
+2026-04-18 12:49:02,807  INFO     === LS 27064 741 Ord Co EOD ===
+2026-04-18 12:49:09,556  INFO         Page 1: saved via .gif (68,940 bytes)
+2026-04-18 12:50:08,226  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 12:51:10,249  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:52:21,956  INFO         Page 4: missing (tried 12 URLs)
+2026-04-18 12:52:21,956  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:52:21,956  INFO       Pages captured: 1 / 4
+2026-04-18 12:52:21,957  INFO     
+2026-04-18 12:52:21,957  INFO     === LS 27636 Battelle sr scientist ===
+2026-04-18 12:53:28,064  INFO         Page 1: missing (tried 12 URLs)
+2026-04-18 12:54:35,844  INFO         Page 2: missing (tried 12 URLs)
+2026-04-18 12:55:44,412  INFO         Page 3: missing (tried 12 URLs)
+2026-04-18 12:55:44,412  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:55:44,412  INFO       Pages captured: 0 / 3
+2026-04-18 12:55:44,413  INFO     
+2026-04-18 12:55:44,413  INFO     === 82 ABN chem off early interview ===
+2026-04-18 12:55:50,778  INFO         Page 1: saved via .gif (65,324 bytes)
+2026-04-18 12:55:56,298  INFO         Page 2: saved via .gif (136,030 bytes)
+2026-04-18 12:56:02,412  INFO         Page 3: saved via .gif (137,285 bytes)
+2026-04-18 12:56:08,839  INFO         Page 4: saved via .gif (131,334 bytes)
+2026-04-18 12:56:15,807  INFO         Page 5: saved via .gif (37,356 bytes)
+2026-04-18 12:57:23,116  INFO         Page 6: missing (tried 12 URLs)
+2026-04-18 12:58:32,864  INFO         Page 7: missing (tried 12 URLs)
+2026-04-18 12:59:39,098  INFO         Page 8: missing (tried 12 URLs)
+2026-04-18 12:59:39,098  INFO       Stopping: 3 consecutive misses
+2026-04-18 12:59:39,098  INFO       Pages captured: 5 / 8
+2026-04-18 12:59:39,100  INFO     Manifest written: C:\Users\geoff\Downloads\New folder (4)\Transcript run\extraction_manifest.json
+2026-04-18 12:59:39,101  INFO     Missing documents log: C:\Users\geoff\Downloads\New folder (4)\Transcript run\missing_documents.json
+2026-04-18 12:59:39,102  INFO     Audit report: C:\Users\geoff\Downloads\New folder (4)\Transcript run\restoration_audit_report.md
+2026-04-18 12:59:39,102  INFO     
+2026-04-18 12:59:39,102  INFO     === Extraction Complete ===
+2026-04-18 12:59:39,102  INFO     Total documents attempted: 42
+2026-04-18 12:59:39,102  INFO     At least partially restored: 27
+2026-04-18 12:59:39,102  INFO     Fully missing (evidentiary finding): 15
+2026-04-18 12:59:39,102  INFO     
+2026-04-18 12:59:39,102  INFO     Review C:\Users\geoff\Downloads\New folder (4)\Transcript run\restoration_audit_report.md for the restoration pattern analysis.

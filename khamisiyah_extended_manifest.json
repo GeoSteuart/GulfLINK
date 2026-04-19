@@ -1,0 +1,436 @@
+{
+  "run_timestamp": "2026-04-18T20:15:36.117548Z",
+  "base_url": "https://gulflink.health.mil",
+  "targets_total": 28,
+  "results": [
+    {
+      "lead_report": 1094,
+      "witness": "37th EN BN chemical NCO",
+      "interview_date": "1996-06-03",
+      "filename_base": "1094ld",
+      "kham_iii_endnotes": [
+        61,
+        75
+      ],
+      "pages_captured": 3,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 843,
+      "witness": "37th EN BN first sergeant",
+      "interview_date": "1996-07-12",
+      "filename_base": "843ld",
+      "kham_iii_endnotes": [
+        74
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 1223,
+      "witness": "37th EN BN NCO",
+      "interview_date": "1996-08-08",
+      "filename_base": "1223ld",
+      "kham_iii_endnotes": [
+        90
+      ],
+      "pages_captured": 3,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 1077,
+      "witness": "60th EOD Detachment NCO",
+      "interview_date": "1996-10-23",
+      "filename_base": "1077ld",
+      "kham_iii_endnotes": [
+        93,
+        95,
+        112,
+        122
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 825,
+      "witness": "37th EN BN Co B chemical NCO",
+      "interview_date": "1996-06-30",
+      "filename_base": "825ld",
+      "kham_iii_endnotes": [
+        96
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 832,
+      "witness": "37th EN BN Co B commander",
+      "interview_date": "1996-06-28",
+      "filename_base": "832ld",
+      "kham_iii_endnotes": [
+        97
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 857,
+      "witness": "37th EN BN intelligence staff NCO",
+      "interview_date": "1996-07-02",
+      "filename_base": "857ld",
+      "kham_iii_endnotes": [
+        99,
+        114,
+        123
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 1266,
+      "witness": "307th EN BN A Company commander",
+      "interview_date": "1997-01-27",
+      "filename_base": "1266ld",
+      "kham_iii_endnotes": [
+        106
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 1053,
+      "witness": "37th EN BN operations officer",
+      "interview_date": "1996-08-20",
+      "filename_base": "1053ld",
+      "kham_iii_endnotes": [
+        110
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 1221,
+      "witness": "307th EN BN liaison officer",
+      "interview_date": "1996-09-17",
+      "filename_base": "1221ld",
+      "kham_iii_endnotes": [
+        111
+      ],
+      "pages_captured": 3,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 806,
+      "witness": "EOD NCOIC",
+      "interview_date": "1996-06",
+      "filename_base": "806ld",
+      "kham_iii_endnotes": [],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_i"
+      ],
+      "note": "Cited in 1997 narrative endnote 29 only, not in Kham III"
+    },
+    {
+      "lead_report": 819,
+      "witness": "37th EN BN CSM and Commander",
+      "interview_date": "1996-06",
+      "filename_base": "819ld",
+      "kham_iii_endnotes": [],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_i"
+      ],
+      "note": "Cited in 1997 narrative endnote 34 only, not in Kham III"
+    },
+    {
+      "lead_report": 910,
+      "witness": "EOD NCO",
+      "interview_date": "1996-09",
+      "filename_base": "910ld",
+      "kham_iii_endnotes": [],
+      "pages_captured": 1,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_i"
+      ],
+      "note": "Cited in 1997 narrative endnotes 54 and 56 only, not in Kham III"
+    },
+    {
+      "lead_report": 6664,
+      "witness": "XVIII Airborne Corps plans officer",
+      "interview_date": "1997-10-30",
+      "filename_base": "7350_048",
+      "kham_iii_endnotes": [
+        31
+      ],
+      "pages_captured": 1,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 18591,
+      "witness": "CENTCOM plans staff officer",
+      "interview_date": "1998-08-17",
+      "filename_base": "8229_016",
+      "kham_iii_endnotes": [
+        40
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 6662,
+      "witness": "XVIII Airborne Corps operations officer",
+      "interview_date": "1997-10-30",
+      "filename_base": "7350_052",
+      "kham_iii_endnotes": [
+        44
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 6670,
+      "witness": "4-64 Armor commander",
+      "interview_date": "1997-10-31",
+      "filename_base": "7350_053",
+      "kham_iii_endnotes": [
+        47
+      ],
+      "pages_captured": 1,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 25537,
+      "witness": "CENTCOM order of battle analyst",
+      "interview_date": "1999-12-09",
+      "filename_base": "9343_027",
+      "kham_iii_endnotes": [
+        56,
+        57
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 1098,
+      "witness": "37th EN BN Co B commander (first CMAT)",
+      "interview_date": "1996-07-02",
+      "filename_base": "8006_036",
+      "kham_iii_endnotes": [
+        62
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 6931,
+      "witness": "37th EN BN Co B commander (second CMAT)",
+      "interview_date": "1997-11-07",
+      "filename_base": "7311_018",
+      "kham_iii_endnotes": [
+        62
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 11260,
+      "witness": "60th EOD executive officer",
+      "interview_date": "1997-12-20",
+      "filename_base": "7162_187",
+      "kham_iii_endnotes": [
+        82
+      ],
+      "pages_captured": 5,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 11262,
+      "witness": "37th EN BN Co A platoon sergeant",
+      "interview_date": "1997-12-19",
+      "filename_base": "7162_189",
+      "kham_iii_endnotes": [
+        85
+      ],
+      "pages_captured": 3,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 822,
+      "witness": "37th EN BN executive officer",
+      "interview_date": "1996-07-05",
+      "filename_base": "0327_023",
+      "kham_iii_endnotes": [
+        87
+      ],
+      "pages_captured": 3,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 909,
+      "witness": "37th EN BN Co A chemical NCO",
+      "interview_date": "1996-09-12",
+      "filename_base": "0327_022",
+      "kham_iii_endnotes": [
+        98,
+        101
+      ],
+      "pages_captured": 1,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 6930,
+      "witness": "37th EN BN intelligence staff specialist",
+      "interview_date": "1997-11-07",
+      "filename_base": "7311_009",
+      "kham_iii_endnotes": [
+        100,
+        121,
+        200
+      ],
+      "pages_captured": 4,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 6652,
+      "witness": "60th EOD executive officer (second interview)",
+      "interview_date": "1997-10-24",
+      "filename_base": "7350_058",
+      "kham_iii_endnotes": [
+        119,
+        120,
+        201
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 6665,
+      "witness": "2nd ACR operations action officer",
+      "interview_date": "1997-10-30",
+      "filename_base": "7303_041",
+      "kham_iii_endnotes": [
+        131,
+        133,
+        137,
+        138
+      ],
+      "pages_captured": 2,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    },
+    {
+      "lead_report": 6663,
+      "witness": "84th Engineer Company commander",
+      "interview_date": "1997-10-30",
+      "filename_base": "7350_060",
+      "kham_iii_endnotes": [
+        145
+      ],
+      "pages_captured": 1,
+      "fully_missing": false,
+      "sources_used": [
+        "khamisiyah_iii"
+      ],
+      "note": ""
+    }
+  ]
+}

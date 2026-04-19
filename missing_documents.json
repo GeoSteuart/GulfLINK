@@ -1,0 +1,1119 @@
+{
+  "run_timestamp": "2026-04-18T16:59:39.101014Z",
+  "total_documents_attempted": 42,
+  "fully_missing_count": 15,
+  "missing_documents": [
+    {
+      "label": "April 10 1997 Eglin AFB transcript",
+      "filename_base": "aug62_001",
+      "doc_type": "sworn_proceeding",
+      "date": "1997-04-10",
+      "unit": "60th EOD Detachment",
+      "role": "technician",
+      "citing_endnotes": [
+        37,
+        87,
+        89,
+        93
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/aug62_001_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/aug62_001_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/aug62_001_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/aug62_001_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/aug62_001_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/aug62_001_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/aug62_001_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/aug62_001_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/aug62_001_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/aug62_001_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/aug62_001_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/aug62_001_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 895 146th EOD cdr",
+      "filename_base": "7259_079",
+      "doc_type": "lead_sheet_interview",
+      "date": "1996-08-13",
+      "unit": "146th EOD Detachment",
+      "role": "commander",
+      "citing_endnotes": [
+        101
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7259_079_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7259_079_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7259_079_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7259_079_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7259_079_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7259_079_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7259_079_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7259_079_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7259_079_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7259_079_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7259_079_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7259_079_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 1079 307 EN C Co plt ldr",
+      "filename_base": "8043_002",
+      "doc_type": "lead_sheet_interview",
+      "date": "1996-10-23",
+      "unit": "307th EN BN C Company",
+      "role": "platoon leader",
+      "citing_endnotes": [
+        87,
+        88,
+        90
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8043_002_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8043_002_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8043_002_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8043_002_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8043_002_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8043_002_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8043_002_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8043_002_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8043_002_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8043_002_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8043_002_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8043_002_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 1080 307 EN XO",
+      "filename_base": "8141_017",
+      "doc_type": "lead_sheet_interview",
+      "date": "1996-12-18",
+      "unit": "307th EN BN",
+      "role": "executive officer",
+      "citing_endnotes": [
+        88,
+        89,
+        90
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8141_017_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8141_017_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8141_017_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8141_017_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8141_017_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8141_017_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8141_017_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8141_017_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8141_017_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8141_017_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8141_017_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8141_017_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 6498 307 EN cdr",
+      "filename_base": "7294_049",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-05-07",
+      "unit": "307th EN BN",
+      "role": "commander",
+      "citing_endnotes": [
+        67,
+        88,
+        90,
+        91,
+        94
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7294_049_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7294_049_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7294_049_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7294_049_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7294_049_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7294_049_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7294_049_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7294_049_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7294_049_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7294_049_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7294_049_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7294_049_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 7834 513 MI chem off",
+      "filename_base": "7334_024",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-12-03",
+      "unit": "513th MI Brigade",
+      "role": "chemical officer",
+      "citing_endnotes": [
+        62,
+        65
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7334_024_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7334_024_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7334_024_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7334_024_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7334_024_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7334_024_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7334_024_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7334_024_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7334_024_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7334_024_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7334_024_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7334_024_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 12100 505 PIR",
+      "filename_base": "7175_203",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-07-14",
+      "unit": "505th Parachute Infantry Regiment",
+      "role": "member",
+      "citing_endnotes": [
+        42,
+        46,
+        67
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7175_203_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7175_203_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7175_203_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7175_203_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7175_203_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7175_203_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7175_203_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7175_203_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7175_203_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7175_203_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7175_203_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7175_203_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 13189 Fox vehicle cdr",
+      "filename_base": "7290_041",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-10-21",
+      "unit": "Fox vehicle team",
+      "role": "commander",
+      "citing_endnotes": [
+        26,
+        92
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7290_041_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7290_041_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7290_041_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7290_041_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7290_041_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7290_041_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7290_041_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7290_041_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7290_041_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7290_041_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7290_041_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7290_041_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 13573 9 Chem Co sr enl",
+      "filename_base": "7329_018",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-12-01",
+      "unit": "9th Chemical Company",
+      "role": "senior enlisted BW sample team",
+      "citing_endnotes": [
+        64
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7329_018_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7329_018_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7329_018_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7329_018_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7329_018_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7329_018_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7329_018_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7329_018_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7329_018_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7329_018_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7329_018_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7329_018_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 13654 JCMEC cdr",
+      "filename_base": "7339_003",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-12-16",
+      "unit": "JCMEC",
+      "role": "commander",
+      "citing_endnotes": [
+        70
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7339_003_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7339_003_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7339_003_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7339_003_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7339_003_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7339_003_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7339_003_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7339_003_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7339_003_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7339_003_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7339_003_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7339_003_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 14102 JCMEC ops off",
+      "filename_base": "7344_033",
+      "doc_type": "lead_sheet_interview",
+      "date": "1998-01-09",
+      "unit": "JCMEC",
+      "role": "operations officer",
+      "citing_endnotes": [
+        71
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7344_033_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7344_033_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/7344_033_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7344_033_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7344_033_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/7344_033_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7344_033_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7344_033_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/7344_033_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7344_033_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7344_033_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/7344_033_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 14159 USAMRIID SPB chief",
+      "filename_base": "8015_006",
+      "doc_type": "lead_sheet_interview",
+      "date": "1998-04-07",
+      "unit": "USAMRIID",
+      "role": "Special Pathogens Branch chief",
+      "citing_endnotes": [
+        73
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8015_006_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8015_006_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8015_006_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8015_006_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8015_006_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8015_006_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8015_006_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8015_006_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8015_006_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8015_006_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8015_006_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8015_006_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 15388 AFMIC med intel off",
+      "filename_base": "8069_011",
+      "doc_type": "lead_sheet_interview",
+      "date": "1998-03-09",
+      "unit": "AFMIC",
+      "role": "medical intelligence officer",
+      "citing_endnotes": [
+        63,
+        65
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8069_011_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8069_011_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8069_011_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8069_011_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8069_011_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8069_011_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8069_011_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8069_011_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8069_011_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8069_011_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8069_011_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8069_011_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 17555 Fox vehicle crew chief",
+      "filename_base": "8180_045",
+      "doc_type": "lead_sheet_interview",
+      "date": "1999-10-04",
+      "unit": "Fox vehicle team",
+      "role": "crew chief",
+      "citing_endnotes": [
+        26,
+        92
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8180_045_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8180_045_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/8180_045_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8180_045_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8180_045_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/8180_045_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8180_045_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8180_045_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/8180_045_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8180_045_0000001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8180_045_0000001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/8180_045_0000001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    },
+    {
+      "label": "LS 27636 Battelle sr scientist",
+      "filename_base": "27636",
+      "doc_type": "eod_evaluation_2000",
+      "date": "2000-08-31",
+      "unit": "Battelle",
+      "role": "senior scientist",
+      "citing_endnotes": [
+        39
+      ],
+      "attempted_urls": [
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/27636001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/27636001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/an_iii_refs/refimages/27636001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/27636001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/27636001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/an_nas_iii_refs/refimages/27636001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/27636001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/27636001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_iii/refimages/27636001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/27636001.gif",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/27636001.htm",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        },
+        {
+          "url": "https://gulflink.health.mil/an_nas_iii/refimages/27636001.html",
+          "status": "http_200_osd_placeholder",
+          "size": 876
+        }
+      ]
+    }
+  ]
+}

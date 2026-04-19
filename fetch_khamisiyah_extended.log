@@ -1,0 +1,333 @@
+2026-04-18 15:47:16,517  INFO     Output directory: C:\Users\geoff\Downloads\New folder (4)\Transcript run\khamisiyah_leavenworth_extended
+2026-04-18 15:47:17,123  INFO     robots.txt loaded
+2026-04-18 15:47:17,123  INFO     
+2026-04-18 15:47:17,123  INFO     Targets: 28
+2026-04-18 15:47:17,124  INFO     
+2026-04-18 15:47:17,124  INFO     === LR 1094: 37th EN BN chemical NCO ===
+2026-04-18 15:47:17,124  INFO         Date: 1996-06-03
+2026-04-18 15:47:30,009  INFO         Page 1: khamisiyah_iii gif (88,394 bytes)
+2026-04-18 15:47:42,070  INFO         Page 2: khamisiyah_iii gif (154,350 bytes)
+2026-04-18 15:47:50,729  INFO         Page 3: khamisiyah_iii gif (97,431 bytes)
+2026-04-18 15:48:13,874  INFO         Page 4: missing
+2026-04-18 15:48:34,809  INFO         Page 5: missing
+2026-04-18 15:48:54,252  INFO         Page 6: missing
+2026-04-18 15:48:54,252  INFO       Stopping: 3 consecutive misses
+2026-04-18 15:48:54,252  INFO       Pages captured: 3
+2026-04-18 15:48:54,253  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 15:48:54,253  INFO     
+2026-04-18 15:48:54,253  INFO     === LR 843: 37th EN BN first sergeant ===
+2026-04-18 15:48:54,253  INFO         Date: 1996-07-12
+2026-04-18 15:49:05,979  INFO         Page 1: khamisiyah_iii gif (70,835 bytes)
+2026-04-18 15:49:15,954  INFO         Page 2: khamisiyah_iii gif (66,659 bytes)
+2026-04-18 15:49:36,504  INFO         Page 3: missing
+2026-04-18 15:49:53,579  INFO         Page 4: missing
+2026-04-18 15:50:09,505  INFO         Page 5: missing
+2026-04-18 15:50:09,505  INFO       Stopping: 3 consecutive misses
+2026-04-18 15:50:09,506  INFO       Pages captured: 2
+2026-04-18 15:50:09,506  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 15:50:09,506  INFO     
+2026-04-18 15:50:09,506  INFO     === LR 1223: 37th EN BN NCO ===
+2026-04-18 15:50:09,506  INFO         Date: 1996-08-08
+2026-04-18 15:50:19,648  INFO         Page 1: khamisiyah_iii gif (72,112 bytes)
+2026-04-18 15:50:32,460  INFO         Page 2: khamisiyah_iii gif (153,959 bytes)
+2026-04-18 15:50:44,498  INFO         Page 3: khamisiyah_iii gif (33,251 bytes)
+2026-04-18 15:50:57,641  INFO         Page 4: missing
+2026-04-18 15:51:06,283  INFO         Page 5: missing
+2026-04-18 15:51:16,336  INFO         Page 6: missing
+2026-04-18 15:51:16,337  INFO       Stopping: 3 consecutive misses
+2026-04-18 15:51:16,337  INFO       Pages captured: 3
+2026-04-18 15:51:16,337  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 15:51:16,338  INFO     
+2026-04-18 15:51:16,338  INFO     === LR 1077: 60th EOD Detachment NCO ===
+2026-04-18 15:51:16,338  INFO         Date: 1996-10-23
+2026-04-18 15:51:27,992  INFO         Page 1: khamisiyah_iii gif (111,229 bytes)
+2026-04-18 15:51:42,536  INFO         Page 2: khamisiyah_iii gif (94,814 bytes)
+2026-04-18 15:52:22,430  INFO         Page 3: missing
+2026-04-18 15:53:00,264  INFO         Page 4: missing
+2026-04-18 15:53:37,073  INFO         Page 5: missing
+2026-04-18 15:53:37,074  INFO       Stopping: 3 consecutive misses
+2026-04-18 15:53:37,074  INFO       Pages captured: 2
+2026-04-18 15:53:37,074  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 15:53:37,074  INFO     
+2026-04-18 15:53:37,074  INFO     === LR 825: 37th EN BN Co B chemical NCO ===
+2026-04-18 15:53:37,075  INFO         Date: 1996-06-30
+2026-04-18 15:53:50,857  INFO         Page 1: khamisiyah_iii gif (54,379 bytes)
+2026-04-18 15:54:02,528  INFO         Page 2: khamisiyah_iii gif (50,844 bytes)
+2026-04-18 15:54:13,879  INFO         Page 3: missing
+2026-04-18 15:54:26,776  INFO         Page 4: missing
+2026-04-18 15:54:34,978  INFO         Page 5: missing
+2026-04-18 15:54:34,978  INFO       Stopping: 3 consecutive misses
+2026-04-18 15:54:34,979  INFO       Pages captured: 2
+2026-04-18 15:54:34,979  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 15:54:34,979  INFO     
+2026-04-18 15:54:34,979  INFO     === LR 832: 37th EN BN Co B commander ===
+2026-04-18 15:54:34,979  INFO         Date: 1996-06-28
+2026-04-18 15:54:48,433  INFO         Page 1: khamisiyah_iii gif (56,820 bytes)
+2026-04-18 15:55:00,677  INFO         Page 2: khamisiyah_iii gif (4,377 bytes)
+2026-04-18 15:55:11,307  INFO         Page 3: missing
+2026-04-18 15:55:20,485  INFO         Page 4: missing
+2026-04-18 15:55:32,685  INFO         Page 5: missing
+2026-04-18 15:55:32,685  INFO       Stopping: 3 consecutive misses
+2026-04-18 15:55:32,685  INFO       Pages captured: 2
+2026-04-18 15:55:32,685  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 15:55:32,685  INFO     
+2026-04-18 15:55:32,685  INFO     === LR 857: 37th EN BN intelligence staff NCO ===
+2026-04-18 15:55:32,686  INFO         Date: 1996-07-02
+2026-04-18 15:55:47,093  INFO         Page 1: khamisiyah_iii gif (77,002 bytes)
+2026-04-18 15:55:58,344  INFO         Page 2: khamisiyah_iii gif (115,965 bytes)
+2026-04-18 15:56:24,584  INFO         Page 3: missing
+2026-04-18 15:56:55,207  INFO         Page 4: missing
+2026-04-18 15:57:23,515  INFO         Page 5: missing
+2026-04-18 15:57:23,515  INFO       Stopping: 3 consecutive misses
+2026-04-18 15:57:23,515  INFO       Pages captured: 2
+2026-04-18 15:57:23,516  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 15:57:23,516  INFO     
+2026-04-18 15:57:23,516  INFO     === LR 1266: 307th EN BN A Company commander ===
+2026-04-18 15:57:23,516  INFO         Date: 1997-01-27
+2026-04-18 15:57:37,027  INFO         Page 1: khamisiyah_iii gif (127,882 bytes)
+2026-04-18 15:57:48,232  INFO         Page 2: khamisiyah_iii gif (10,794 bytes)
+2026-04-18 15:57:59,388  INFO         Page 3: missing
+2026-04-18 15:58:12,283  INFO         Page 4: missing
+2026-04-18 15:58:22,145  INFO         Page 5: missing
+2026-04-18 15:58:22,146  INFO       Stopping: 3 consecutive misses
+2026-04-18 15:58:22,146  INFO       Pages captured: 2
+2026-04-18 15:58:22,146  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 15:58:22,146  INFO     
+2026-04-18 15:58:22,146  INFO     === LR 1053: 37th EN BN operations officer ===
+2026-04-18 15:58:22,146  INFO         Date: 1996-08-20
+2026-04-18 15:58:33,622  INFO         Page 1: khamisiyah_iii gif (98,664 bytes)
+2026-04-18 15:58:45,381  INFO         Page 2: khamisiyah_iii gif (26,010 bytes)
+2026-04-18 15:58:55,336  INFO         Page 3: missing
+2026-04-18 15:59:05,263  INFO         Page 4: missing
+2026-04-18 15:59:15,044  INFO         Page 5: missing
+2026-04-18 15:59:15,044  INFO       Stopping: 3 consecutive misses
+2026-04-18 15:59:15,045  INFO       Pages captured: 2
+2026-04-18 15:59:15,045  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 15:59:15,045  INFO     
+2026-04-18 15:59:15,045  INFO     === LR 1221: 307th EN BN liaison officer ===
+2026-04-18 15:59:15,045  INFO         Date: 1996-09-17
+2026-04-18 15:59:28,719  INFO         Page 1: khamisiyah_iii gif (81,531 bytes)
+2026-04-18 15:59:41,326  INFO         Page 2: khamisiyah_iii gif (54,305 bytes)
+2026-04-18 15:59:54,862  INFO         Page 3: khamisiyah_iii gif (37,925 bytes)
+2026-04-18 16:00:05,643  INFO         Page 4: missing
+2026-04-18 16:00:16,074  INFO         Page 5: missing
+2026-04-18 16:00:27,821  INFO         Page 6: missing
+2026-04-18 16:00:27,821  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:00:27,821  INFO       Pages captured: 3
+2026-04-18 16:00:27,821  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:00:27,821  INFO     
+2026-04-18 16:00:27,821  INFO     === LR 806: EOD NCOIC ===
+2026-04-18 16:00:27,822  INFO         Date: 1996-06
+2026-04-18 16:00:27,822  INFO         Note: Cited in 1997 narrative endnote 29 only, not in Kham III
+2026-04-18 16:00:39,528  INFO         Page 1: khamisiyah_i gif (54,720 bytes)
+2026-04-18 16:00:52,345  INFO         Page 2: khamisiyah_i gif (49,421 bytes)
+2026-04-18 16:00:57,787  INFO         Page 3: missing
+2026-04-18 16:01:05,264  INFO         Page 4: missing
+2026-04-18 16:01:09,081  INFO         Page 5: missing
+2026-04-18 16:01:09,081  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:01:09,081  INFO       Pages captured: 2
+2026-04-18 16:01:09,081  INFO       Sources: ['khamisiyah_i']
+2026-04-18 16:01:09,081  INFO     
+2026-04-18 16:01:09,081  INFO     === LR 819: 37th EN BN CSM and Commander ===
+2026-04-18 16:01:09,082  INFO         Date: 1996-06
+2026-04-18 16:01:09,082  INFO         Note: Cited in 1997 narrative endnote 34 only, not in Kham III
+2026-04-18 16:01:20,379  INFO         Page 1: khamisiyah_i gif (51,548 bytes)
+2026-04-18 16:01:30,961  INFO         Page 2: khamisiyah_i gif (20,717 bytes)
+2026-04-18 16:01:36,924  INFO         Page 3: missing
+2026-04-18 16:01:41,660  INFO         Page 4: missing
+2026-04-18 16:01:46,570  INFO         Page 5: missing
+2026-04-18 16:01:46,570  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:01:46,570  INFO       Pages captured: 2
+2026-04-18 16:01:46,570  INFO       Sources: ['khamisiyah_i']
+2026-04-18 16:01:46,570  INFO     
+2026-04-18 16:01:46,571  INFO     === LR 910: EOD NCO ===
+2026-04-18 16:01:46,571  INFO         Date: 1996-09
+2026-04-18 16:01:46,571  INFO         Note: Cited in 1997 narrative endnotes 54 and 56 only, not in Kham III
+2026-04-18 16:01:56,630  INFO         Page 1: missing
+2026-04-18 16:02:06,532  INFO         Page 2: khamisiyah_i gif (32,456 bytes)
+2026-04-18 16:02:17,014  INFO         Page 3: missing
+2026-04-18 16:02:25,270  INFO         Page 4: missing
+2026-04-18 16:02:39,096  INFO         Page 5: missing
+2026-04-18 16:02:39,096  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:02:39,096  INFO       Pages captured: 1
+2026-04-18 16:02:39,096  INFO       Sources: ['khamisiyah_i']
+2026-04-18 16:02:39,097  INFO     
+2026-04-18 16:02:39,097  INFO     === LR 6664: XVIII Airborne Corps plans officer ===
+2026-04-18 16:02:39,097  INFO         Date: 1997-10-30
+2026-04-18 16:02:48,394  INFO         Page 1: khamisiyah_iii gif (61,836 bytes)
+2026-04-18 16:02:53,776  INFO         Page 2: missing
+2026-04-18 16:02:58,186  INFO         Page 3: missing
+2026-04-18 16:03:02,125  INFO         Page 4: missing
+2026-04-18 16:03:02,125  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:03:02,126  INFO       Pages captured: 1
+2026-04-18 16:03:02,126  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:03:02,126  INFO     
+2026-04-18 16:03:02,126  INFO     === LR 18591: CENTCOM plans staff officer ===
+2026-04-18 16:03:02,126  INFO         Date: 1998-08-17
+2026-04-18 16:03:12,527  INFO         Page 1: khamisiyah_iii gif (96,914 bytes)
+2026-04-18 16:03:20,000  INFO         Page 2: khamisiyah_iii gif (18,009 bytes)
+2026-04-18 16:03:24,200  INFO         Page 3: missing
+2026-04-18 16:03:30,740  INFO         Page 4: missing
+2026-04-18 16:03:37,388  INFO         Page 5: missing
+2026-04-18 16:03:37,388  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:03:37,388  INFO       Pages captured: 2
+2026-04-18 16:03:37,388  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:03:37,388  INFO     
+2026-04-18 16:03:37,388  INFO     === LR 6662: XVIII Airborne Corps operations officer ===
+2026-04-18 16:03:37,389  INFO         Date: 1997-10-30
+2026-04-18 16:03:47,815  INFO         Page 1: khamisiyah_iii gif (72,978 bytes)
+2026-04-18 16:03:59,797  INFO         Page 2: khamisiyah_iii gif (13,301 bytes)
+2026-04-18 16:04:07,558  INFO         Page 3: missing
+2026-04-18 16:04:12,406  INFO         Page 4: missing
+2026-04-18 16:04:16,800  INFO         Page 5: missing
+2026-04-18 16:04:16,800  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:04:16,800  INFO       Pages captured: 2
+2026-04-18 16:04:16,800  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:04:16,801  INFO     
+2026-04-18 16:04:16,801  INFO     === LR 6670: 4-64 Armor commander ===
+2026-04-18 16:04:16,801  INFO         Date: 1997-10-31
+2026-04-18 16:04:28,734  INFO         Page 1: khamisiyah_iii gif (123,499 bytes)
+2026-04-18 16:04:34,198  INFO         Page 2: missing
+2026-04-18 16:04:37,870  INFO         Page 3: missing
+2026-04-18 16:04:44,233  INFO         Page 4: missing
+2026-04-18 16:04:44,233  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:04:44,233  INFO       Pages captured: 1
+2026-04-18 16:04:44,233  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:04:44,233  INFO     
+2026-04-18 16:04:44,234  INFO     === LR 25537: CENTCOM order of battle analyst ===
+2026-04-18 16:04:44,234  INFO         Date: 1999-12-09
+2026-04-18 16:04:52,010  INFO         Page 1: khamisiyah_iii gif (93,641 bytes)
+2026-04-18 16:05:00,983  INFO         Page 2: khamisiyah_iii gif (70,446 bytes)
+2026-04-18 16:05:06,298  INFO         Page 3: missing
+2026-04-18 16:05:10,039  INFO         Page 4: missing
+2026-04-18 16:05:14,246  INFO         Page 5: missing
+2026-04-18 16:05:14,246  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:05:14,247  INFO       Pages captured: 2
+2026-04-18 16:05:14,247  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:05:14,247  INFO     
+2026-04-18 16:05:14,247  INFO     === LR 1098: 37th EN BN Co B commander (first CMAT) ===
+2026-04-18 16:05:14,247  INFO         Date: 1996-07-02
+2026-04-18 16:05:25,776  INFO         Page 1: khamisiyah_iii gif (75,869 bytes)
+2026-04-18 16:05:34,171  INFO         Page 2: khamisiyah_iii gif (23,474 bytes)
+2026-04-18 16:05:40,995  INFO         Page 3: missing
+2026-04-18 16:05:45,015  INFO         Page 4: missing
+2026-04-18 16:05:50,957  INFO         Page 5: missing
+2026-04-18 16:05:50,958  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:05:50,958  INFO       Pages captured: 2
+2026-04-18 16:05:50,958  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:05:50,958  INFO     
+2026-04-18 16:05:50,958  INFO     === LR 6931: 37th EN BN Co B commander (second CMAT) ===
+2026-04-18 16:05:50,958  INFO         Date: 1997-11-07
+2026-04-18 16:06:02,629  INFO         Page 1: khamisiyah_iii gif (81,026 bytes)
+2026-04-18 16:06:10,481  INFO         Page 2: khamisiyah_iii gif (31,880 bytes)
+2026-04-18 16:06:17,218  INFO         Page 3: missing
+2026-04-18 16:06:21,657  INFO         Page 4: missing
+2026-04-18 16:06:26,497  INFO         Page 5: missing
+2026-04-18 16:06:26,497  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:06:26,497  INFO       Pages captured: 2
+2026-04-18 16:06:26,497  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:06:26,497  INFO     
+2026-04-18 16:06:26,497  INFO     === LR 11260: 60th EOD executive officer ===
+2026-04-18 16:06:26,498  INFO         Date: 1997-12-20
+2026-04-18 16:06:41,074  INFO         Page 1: khamisiyah_iii gif (50,563 bytes)
+2026-04-18 16:06:50,568  INFO         Page 2: khamisiyah_iii gif (142,267 bytes)
+2026-04-18 16:07:02,797  INFO         Page 3: khamisiyah_iii gif (91,846 bytes)
+2026-04-18 16:07:15,607  INFO         Page 4: khamisiyah_iii gif (79,264 bytes)
+2026-04-18 16:07:28,008  INFO         Page 5: khamisiyah_iii gif (56,304 bytes)
+2026-04-18 16:07:33,874  INFO         Page 6: missing
+2026-04-18 16:07:38,430  INFO         Page 7: missing
+2026-04-18 16:07:45,445  INFO         Page 8: missing
+2026-04-18 16:07:45,445  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:07:45,445  INFO       Pages captured: 5
+2026-04-18 16:07:45,445  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:07:45,445  INFO     
+2026-04-18 16:07:45,445  INFO     === LR 11262: 37th EN BN Co A platoon sergeant ===
+2026-04-18 16:07:45,446  INFO         Date: 1997-12-19
+2026-04-18 16:07:57,958  INFO         Page 1: khamisiyah_iii gif (59,947 bytes)
+2026-04-18 16:08:11,932  INFO         Page 2: khamisiyah_iii gif (128,469 bytes)
+2026-04-18 16:08:23,157  INFO         Page 3: khamisiyah_iii gif (84,014 bytes)
+2026-04-18 16:08:30,445  INFO         Page 4: missing
+2026-04-18 16:08:37,978  INFO         Page 5: missing
+2026-04-18 16:08:41,808  INFO         Page 6: missing
+2026-04-18 16:08:41,809  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:08:41,809  INFO       Pages captured: 3
+2026-04-18 16:08:41,809  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:08:41,809  INFO     
+2026-04-18 16:08:41,809  INFO     === LR 822: 37th EN BN executive officer ===
+2026-04-18 16:08:41,809  INFO         Date: 1996-07-05
+2026-04-18 16:08:52,885  INFO         Page 1: khamisiyah_iii gif (72,642 bytes)
+2026-04-18 16:09:04,176  INFO         Page 2: khamisiyah_iii gif (114,713 bytes)
+2026-04-18 16:09:13,072  INFO         Page 3: khamisiyah_iii gif (28,921 bytes)
+2026-04-18 16:09:20,618  INFO         Page 4: missing
+2026-04-18 16:09:28,099  INFO         Page 5: missing
+2026-04-18 16:09:34,727  INFO         Page 6: missing
+2026-04-18 16:09:34,727  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:09:34,727  INFO       Pages captured: 3
+2026-04-18 16:09:34,727  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:09:34,727  INFO     
+2026-04-18 16:09:34,727  INFO     === LR 909: 37th EN BN Co A chemical NCO ===
+2026-04-18 16:09:34,728  INFO         Date: 1996-09-12
+2026-04-18 16:09:46,279  INFO         Page 1: khamisiyah_iii gif (103,121 bytes)
+2026-04-18 16:09:55,483  INFO         Page 2: missing
+2026-04-18 16:10:06,077  INFO         Page 3: missing
+2026-04-18 16:10:18,814  INFO         Page 4: missing
+2026-04-18 16:10:18,814  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:10:18,814  INFO       Pages captured: 1
+2026-04-18 16:10:18,814  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:10:18,814  INFO     
+2026-04-18 16:10:18,815  INFO     === LR 6930: 37th EN BN intelligence staff specialist ===
+2026-04-18 16:10:18,815  INFO         Date: 1997-11-07
+2026-04-18 16:10:28,617  INFO         Page 1: khamisiyah_iii gif (78,256 bytes)
+2026-04-18 16:10:38,747  INFO         Page 2: khamisiyah_iii gif (101,751 bytes)
+2026-04-18 16:11:00,430  INFO         Page 3: khamisiyah_iii gif (58,277 bytes)
+2026-04-18 16:11:24,085  INFO         Page 4: khamisiyah_iii gif (63,253 bytes)
+2026-04-18 16:11:42,175  INFO         Page 5: missing
+2026-04-18 16:12:02,467  INFO         Page 6: missing
+2026-04-18 16:12:22,739  INFO         Page 7: missing
+2026-04-18 16:12:22,739  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:12:22,739  INFO       Pages captured: 4
+2026-04-18 16:12:22,739  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:12:22,740  INFO     
+2026-04-18 16:12:22,740  INFO     === LR 6652: 60th EOD executive officer (second interview) ===
+2026-04-18 16:12:22,740  INFO         Date: 1997-10-24
+2026-04-18 16:12:31,606  INFO         Page 1: khamisiyah_iii gif (95,365 bytes)
+2026-04-18 16:12:43,111  INFO         Page 2: khamisiyah_iii gif (107,158 bytes)
+2026-04-18 16:13:01,113  INFO         Page 3: missing
+2026-04-18 16:13:17,712  INFO         Page 4: missing
+2026-04-18 16:13:33,960  INFO         Page 5: missing
+2026-04-18 16:13:33,960  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:13:33,961  INFO       Pages captured: 2
+2026-04-18 16:13:33,961  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:13:33,961  INFO     
+2026-04-18 16:13:33,961  INFO     === LR 6665: 2nd ACR operations action officer ===
+2026-04-18 16:13:33,961  INFO         Date: 1997-10-30
+2026-04-18 16:13:44,083  INFO         Page 1: khamisiyah_iii gif (80,790 bytes)
+2026-04-18 16:13:56,846  INFO         Page 2: khamisiyah_iii gif (46,524 bytes)
+2026-04-18 16:14:20,522  INFO         Page 3: missing
+2026-04-18 16:14:44,917  INFO         Page 4: missing
+2026-04-18 16:15:07,613  INFO         Page 5: missing
+2026-04-18 16:15:07,614  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:15:07,614  INFO       Pages captured: 2
+2026-04-18 16:15:07,614  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:15:07,614  INFO     
+2026-04-18 16:15:07,614  INFO     === LR 6663: 84th Engineer Company commander ===
+2026-04-18 16:15:07,614  INFO         Date: 1997-10-30
+2026-04-18 16:15:19,166  INFO         Page 1: khamisiyah_iii gif (81,154 bytes)
+2026-04-18 16:15:23,618  INFO         Page 2: missing
+2026-04-18 16:15:29,533  INFO         Page 3: missing
+2026-04-18 16:15:36,116  INFO         Page 4: missing
+2026-04-18 16:15:36,116  INFO       Stopping: 3 consecutive misses
+2026-04-18 16:15:36,116  INFO       Pages captured: 1
+2026-04-18 16:15:36,116  INFO       Sources: ['khamisiyah_iii']
+2026-04-18 16:15:36,118  INFO     
+2026-04-18 16:15:36,118  INFO     === Summary ===
+2026-04-18 16:15:36,118  INFO     Total targets: 28
+2026-04-18 16:15:36,118  INFO     At least partially restored: 28
+2026-04-18 16:15:36,118  INFO     Fully missing: 0
+2026-04-18 16:15:36,118  INFO     
+2026-04-18 16:15:36,118  INFO     === Source path analysis ===
+2026-04-18 16:15:36,118  INFO       Content found via khamisiyah_i: 3 Lead Reports
+2026-04-18 16:15:36,118  INFO       Content found via khamisiyah_iii: 25 Lead Reports
+2026-04-18 16:15:36,118  INFO     
+2026-04-18 16:15:36,118  INFO     Manifest: C:\Users\geoff\Downloads\New folder (4)\Transcript run\khamisiyah_extended_manifest.json
+2026-04-18 16:15:36,118  INFO     Files: C:\Users\geoff\Downloads\New folder (4)\Transcript run\khamisiyah_leavenworth_extended

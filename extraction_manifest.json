@@ -1,0 +1,605 @@
+{
+  "run_timestamp": "2026-04-18T16:59:39.099809Z",
+  "base_url": "https://gulflink.health.mil",
+  "primary_path": "/an_iii/an_iii_refs/refimages",
+  "fallback_paths": [
+    "/an_nas_iii/an_nas_iii_refs/refimages",
+    "/an_iii/refimages",
+    "/an_nas_iii/refimages"
+  ],
+  "documents_total": 42,
+  "results": [
+    {
+      "label": "April 10 1997 Eglin AFB transcript",
+      "filename_base": "aug62_001",
+      "doc_type": "sworn_proceeding",
+      "date": "1997-04-10",
+      "unit": "60th EOD Detachment",
+      "citing_endnotes": [
+        37,
+        87,
+        89,
+        93
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 895 146th EOD cdr",
+      "filename_base": "7259_079",
+      "doc_type": "lead_sheet_interview",
+      "date": "1996-08-13",
+      "unit": "146th EOD Detachment",
+      "citing_endnotes": [
+        101
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 1079 307 EN C Co plt ldr",
+      "filename_base": "8043_002",
+      "doc_type": "lead_sheet_interview",
+      "date": "1996-10-23",
+      "unit": "307th EN BN C Company",
+      "citing_endnotes": [
+        87,
+        88,
+        90
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 1080 307 EN XO",
+      "filename_base": "8141_017",
+      "doc_type": "lead_sheet_interview",
+      "date": "1996-12-18",
+      "unit": "307th EN BN",
+      "citing_endnotes": [
+        88,
+        89,
+        90
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 6498 307 EN cdr",
+      "filename_base": "7294_049",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-05-07",
+      "unit": "307th EN BN",
+      "citing_endnotes": [
+        67,
+        88,
+        90,
+        91,
+        94
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 7834 513 MI chem off",
+      "filename_base": "7334_024",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-12-03",
+      "unit": "513th MI Brigade",
+      "citing_endnotes": [
+        62,
+        65
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 7938 BH pilot",
+      "filename_base": "7105_017",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-04-15",
+      "unit": "Black Hawk BW sampling mission",
+      "citing_endnotes": [
+        52,
+        53,
+        57
+      ],
+      "pages_captured": 5,
+      "pages_attempted": 8,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 7945 BH co-pilot",
+      "filename_base": "7107_001",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-04-17",
+      "unit": "Black Hawk BW sampling mission",
+      "citing_endnotes": [
+        52,
+        55,
+        56,
+        58,
+        77
+      ],
+      "pages_captured": 4,
+      "pages_attempted": 7,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 7947 82 ABN chem off",
+      "filename_base": "7109_024",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-04-21",
+      "unit": "82nd Airborne Division",
+      "citing_endnotes": [
+        22,
+        24,
+        75
+      ],
+      "pages_captured": 10,
+      "pages_attempted": 13,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 7948 307 EN C Co 3rd plt ldr",
+      "filename_base": "7109_30",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-04-17",
+      "unit": "307th EN BN C Company",
+      "citing_endnotes": [
+        88
+      ],
+      "pages_captured": 5,
+      "pages_attempted": 8,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 7949 HHC 307 EN S-3",
+      "filename_base": "7109_034",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-04-17",
+      "unit": "HHC 307th EN BN",
+      "citing_endnotes": [
+        66,
+        68
+      ],
+      "pages_captured": 4,
+      "pages_attempted": 7,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 9507 BH crew chief",
+      "filename_base": "5361_001",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-02-14",
+      "unit": "Black Hawk BW sampling mission",
+      "citing_endnotes": [
+        52,
+        59,
+        77
+      ],
+      "pages_captured": 9,
+      "pages_attempted": 12,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 9522 BH door gunner",
+      "filename_base": "6176_016",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-05-13",
+      "unit": "Black Hawk BW sampling mission",
+      "citing_endnotes": [
+        52,
+        57,
+        60,
+        65,
+        77
+      ],
+      "pages_captured": 4,
+      "pages_attempted": 7,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 9918 307 EN C Co 2nd plt ldr",
+      "filename_base": "7113_145",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-04-29",
+      "unit": "307th EN BN C Company",
+      "citing_endnotes": [
+        88,
+        90
+      ],
+      "pages_captured": 6,
+      "pages_attempted": 9,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 10168 Fox vehicle operator",
+      "filename_base": "7013_053",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-05-15",
+      "unit": "Fox vehicle team",
+      "citing_endnotes": [
+        26,
+        30,
+        92
+      ],
+      "pages_captured": 4,
+      "pages_attempted": 7,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 10358 1703 EOD",
+      "filename_base": "7063_004",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-03-03",
+      "unit": "1703rd EOD Detachment",
+      "citing_endnotes": [
+        97
+      ],
+      "pages_captured": 5,
+      "pages_attempted": 8,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 10523 146 EOD cdr",
+      "filename_base": "7112_040",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-06-03",
+      "unit": "146th EOD Detachment",
+      "citing_endnotes": [
+        101
+      ],
+      "pages_captured": 7,
+      "pages_attempted": 10,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 10775 1703 EOD",
+      "filename_base": "7118_043",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-05-06",
+      "unit": "1703rd EOD Detachment",
+      "citing_endnotes": [
+        97
+      ],
+      "pages_captured": 2,
+      "pages_attempted": 5,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 10787 1703 EOD",
+      "filename_base": "7121_012",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-05-27",
+      "unit": "1703rd EOD Detachment",
+      "citing_endnotes": [
+        33
+      ],
+      "pages_captured": 6,
+      "pages_attempted": 9,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 10789 1703 EOD",
+      "filename_base": "7121_014",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-05-14",
+      "unit": "1703rd EOD Detachment",
+      "citing_endnotes": [
+        97
+      ],
+      "pages_captured": 5,
+      "pages_attempted": 8,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 11036 60 EOD sr tech",
+      "filename_base": "7140_115",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-05-23",
+      "unit": "60th EOD Detachment",
+      "citing_endnotes": [
+        34,
+        38,
+        93,
+        115
+      ],
+      "pages_captured": 6,
+      "pages_attempted": 9,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 11043 1703 EOD tm ldr",
+      "filename_base": "7141_081",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-05-29",
+      "unit": "1703rd EOD Detachment",
+      "citing_endnotes": [
+        97
+      ],
+      "pages_captured": 7,
+      "pages_attempted": 10,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 11249 307 EN C Co plt ldr",
+      "filename_base": "7162_175",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-12-18",
+      "unit": "307th EN BN C Company",
+      "citing_endnotes": [
+        90
+      ],
+      "pages_captured": 3,
+      "pages_attempted": 6,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 11325 307 EN C Co eng",
+      "filename_base": "7162_255",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-06-11",
+      "unit": "307th EN BN C Company",
+      "citing_endnotes": [
+        36
+      ],
+      "pages_captured": 4,
+      "pages_attempted": 7,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 11833 307 EN eng",
+      "filename_base": "7162_792",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-11-04",
+      "unit": "307th EN BN",
+      "citing_endnotes": [
+        79
+      ],
+      "pages_captured": 4,
+      "pages_attempted": 7,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 11875 307 EN B Co 1st plt eng",
+      "filename_base": "7162_837",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-06-13",
+      "unit": "307th EN BN B Company",
+      "citing_endnotes": [
+        35,
+        89
+      ],
+      "pages_captured": 3,
+      "pages_attempted": 6,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 12002 307 EN S-2",
+      "filename_base": "7162_968",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-09-15",
+      "unit": "307th EN BN",
+      "citing_endnotes": [
+        28,
+        67,
+        88,
+        90
+      ],
+      "pages_captured": 4,
+      "pages_attempted": 7,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 12100 505 PIR",
+      "filename_base": "7175_203",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-07-14",
+      "unit": "505th Parachute Infantry Regiment",
+      "citing_endnotes": [
+        42,
+        46,
+        67
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 13189 Fox vehicle cdr",
+      "filename_base": "7290_041",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-10-21",
+      "unit": "Fox vehicle team",
+      "citing_endnotes": [
+        26,
+        92
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 13573 9 Chem Co sr enl",
+      "filename_base": "7329_018",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-12-01",
+      "unit": "9th Chemical Company",
+      "citing_endnotes": [
+        64
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 13654 JCMEC cdr",
+      "filename_base": "7339_003",
+      "doc_type": "lead_sheet_interview",
+      "date": "1997-12-16",
+      "unit": "JCMEC",
+      "citing_endnotes": [
+        70
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 14102 JCMEC ops off",
+      "filename_base": "7344_033",
+      "doc_type": "lead_sheet_interview",
+      "date": "1998-01-09",
+      "unit": "JCMEC",
+      "citing_endnotes": [
+        71
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 14159 USAMRIID SPB chief",
+      "filename_base": "8015_006",
+      "doc_type": "lead_sheet_interview",
+      "date": "1998-04-07",
+      "unit": "USAMRIID",
+      "citing_endnotes": [
+        73
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 15388 AFMIC med intel off",
+      "filename_base": "8069_011",
+      "doc_type": "lead_sheet_interview",
+      "date": "1998-03-09",
+      "unit": "AFMIC",
+      "citing_endnotes": [
+        63,
+        65
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 17555 Fox vehicle crew chief",
+      "filename_base": "8180_045",
+      "doc_type": "lead_sheet_interview",
+      "date": "1999-10-04",
+      "unit": "Fox vehicle team",
+      "citing_endnotes": [
+        26,
+        92
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "LS 26772 767 Ord Co EOD",
+      "filename_base": "26772",
+      "doc_type": "eod_evaluation_2000",
+      "date": "2000-05-23",
+      "unit": "767th Ordnance Company (EOD)",
+      "citing_endnotes": [
+        40
+      ],
+      "pages_captured": 2,
+      "pages_attempted": 5,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 26854 52 Ord Gp EOD",
+      "filename_base": "26854",
+      "doc_type": "eod_evaluation_2000",
+      "date": "2000-05-18",
+      "unit": "52nd Ordnance Group (EOD)",
+      "citing_endnotes": [
+        40
+      ],
+      "pages_captured": 3,
+      "pages_attempted": 6,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 26933 NGIC chem wpns spec",
+      "filename_base": "26933",
+      "doc_type": "eod_evaluation_2000",
+      "date": "2000-05-25",
+      "unit": "NGIC",
+      "citing_endnotes": [
+        40
+      ],
+      "pages_captured": 1,
+      "pages_attempted": 4,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 26934 NAVEODTC munitions",
+      "filename_base": "26934",
+      "doc_type": "eod_evaluation_2000",
+      "date": "2000-06-05",
+      "unit": "NAVEODTC",
+      "citing_endnotes": [
+        40
+      ],
+      "pages_captured": 1,
+      "pages_attempted": 4,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 27064 741 Ord Co EOD",
+      "filename_base": "27064",
+      "doc_type": "eod_evaluation_2000",
+      "date": "2000-06-12",
+      "unit": "741st Ordnance Company (EOD)",
+      "citing_endnotes": [
+        40
+      ],
+      "pages_captured": 1,
+      "pages_attempted": 4,
+      "fully_missing": false
+    },
+    {
+      "label": "LS 27636 Battelle sr scientist",
+      "filename_base": "27636",
+      "doc_type": "eod_evaluation_2000",
+      "date": "2000-08-31",
+      "unit": "Battelle",
+      "citing_endnotes": [
+        39
+      ],
+      "pages_captured": 0,
+      "pages_attempted": 3,
+      "fully_missing": true
+    },
+    {
+      "label": "82 ABN chem off early interview",
+      "filename_base": "1998043",
+      "doc_type": "early_interview",
+      "date": "1996-06-17",
+      "unit": "82nd Airborne Division",
+      "citing_endnotes": [
+        14,
+        18,
+        22,
+        24,
+        75
+      ],
+      "pages_captured": 5,
+      "pages_attempted": 8,
+      "fully_missing": false
+    }
+  ]
+}

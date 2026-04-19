@@ -1,0 +1,37 @@
+2026-04-18 10:19:08,055  INFO     
+2026-04-18 10:19:08,055  INFO     === LS 895 page 1 (failed as .gif): 7259_079_0000001 ===
+2026-04-18 10:19:08,055  INFO       Testing: https://www.gulflink.osd.mil/an_iii/refimages/7259_079_0000001.gif
+2026-04-18 10:19:13,537  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:19:13,537  INFO       Testing: https://www.gulflink.osd.mil/an_iii/refimages/7259_079_0000001.htm
+2026-04-18 10:19:19,121  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:19:19,121  INFO       Testing: https://www.gulflink.osd.mil/an_iii/refimages/7259_079_0000001.html
+2026-04-18 10:19:29,099  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:19:29,099  INFO       Testing: https://www.gulflink.osd.mil/an_iii/refimages/7259_079_0000001.txt
+2026-04-18 10:19:33,957  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:19:33,957  INFO       Testing: https://www.gulflink.osd.mil/an_iii/refimages/7259_079_0000001.pdf
+2026-04-18 10:19:38,001  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:19:38,001  INFO       Testing: https://www.gulflink.osd.mil/an_iii/reftext/7259_079_0000001.htm
+2026-04-18 10:19:43,248  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:19:43,248  INFO       Testing: https://www.gulflink.osd.mil/an_iii/reftext/7259_079_0000001.txt
+2026-04-18 10:19:47,025  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:19:47,026  INFO       Testing: https://www.gulflink.osd.mil/an_iii/reftext/7259_079_0000001.html
+2026-04-18 10:19:52,751  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:19:52,751  INFO       Testing: https://www.gulflink.osd.mil/an_iii/ocr/7259_079_0000001.htm
+2026-04-18 10:19:56,352  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:19:56,353  INFO       Testing: https://www.gulflink.osd.mil/an_iii/ocr/7259_079_0000001.txt
+2026-04-18 10:20:00,749  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:20:00,749  INFO     
+2026-04-18 10:20:00,750  INFO     === Eglin AFB transcript page 1 (failed as .gif): aug62_001_0000001 ===
+2026-04-18 10:20:00,750  INFO       Testing: https://www.gulflink.osd.mil/an_iii/refimages/aug62_001_0000001.gif
+2026-04-18 10:20:07,152  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:20:07,152  INFO       Testing: https://www.gulflink.osd.mil/an_iii/refimages/aug62_001_0000001.htm
+2026-04-18 10:20:14,311  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:20:14,311  INFO       Testing: https://www.gulflink.osd.mil/an_iii/refimages/aug62_001_0000001.html
+2026-04-18 10:20:18,421  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:20:18,422  INFO       Testing: https://www.gulflink.osd.mil/an_iii/refimages/aug62_001_0000001.txt
+2026-04-18 10:20:22,220  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:20:22,220  INFO       Testing: https://www.gulflink.osd.mil/an_iii/refimages/aug62_001_0000001.pdf
+2026-04-18 10:20:26,527  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:20:26,527  INFO       Testing: https://www.gulflink.osd.mil/an_iii/reftext/aug62_001_0000001.htm
+2026-04-18 10:20:33,780  INFO         HTTP 200, CT=text/html -> PLACEHOLDER (876-byte HTML error)
+2026-04-18 10:20:33,780  INFO       Testing: https://www.gulflink.osd.mil/an_iii/reftext/aug62_001_0000001.txt
